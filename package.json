@@ -6,7 +6,7 @@
     }
   ],
   "name": "@mehulbaid/nest-sendgrid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Integrates @sendgrid/mail client in a modular way to help send email from NestJs",
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
