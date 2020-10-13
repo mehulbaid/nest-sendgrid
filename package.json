@@ -27,7 +27,7 @@
     "Mail"
   ],
   "author": "Mehul Baid",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@sendgrid/mail": "^7.0.1",
     "deepmerge": "^4.2.2"
