@@ -1,6 +1,6 @@
 [![npm version](https://img.shields.io/npm/v/@mehulbaid/nest-sendgrid?style=for-the-badge)](https://npmjs.com/package/@mehulbaid/nest-sendgrid "View this project on NPM")
 
-[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=for-the-badge)](http://opensource.org/licenses/MIT)
 
 <p align="center">
   <h3 align="center">
