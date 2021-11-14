@@ -32,6 +32,7 @@ your nestjs project provides an instance of the `@sendgrid/mail` client to any M
 |-----------------|----------------|
 | 1.x.x           | ^6.x.x         |
 | 2.x.x           | ^7.x.x         |
+| 3.x.x           | ^8.x.x         |
 
 
 ```bash
