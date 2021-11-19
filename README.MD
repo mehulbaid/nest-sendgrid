@@ -26,7 +26,7 @@
 `@mehulbaid/nest-sendgrid` provides a modular way to use `SendGrid` which when imported into
 your nestjs project provides an instance of the `@sendgrid/mail` client to any Module that injects it. 
 
-## Installation
+## Packge Versions
 
 | Package Version | Nestjs Version |
 |-----------------|----------------|
@@ -34,6 +34,8 @@ your nestjs project provides an instance of the `@sendgrid/mail` client to any M
 | 2.x.x           | ^7.x.x         |
 | 3.x.x           | ^8.x.x         |
 
+
+## Installation
 
 ```bash
 npm install --save @mehulbaid/nest-sendgrid @sendgrid/mail
