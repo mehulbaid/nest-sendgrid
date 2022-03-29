@@ -1,4 +1,5 @@
 [![npm version](https://img.shields.io/npm/v/@mehulbaid/nest-sendgrid?logo=npm&style=for-the-badge)](https://npmjs.com/package/@mehulbaid/nest-sendgrid "View this project on NPM")
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/mehulbaid/nest-sendgrid/Publish%20to%20NPM?style=for-the-badge)
 ![npm](https://img.shields.io/npm/dw/@mehulbaid/nest-sendgrid?logo=npm&style=for-the-badge)
 ![npm](https://img.shields.io/npm/dm/@mehulbaid/nest-sendgrid?logo=npm&style=for-the-badge)
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=for-the-badge)](http://opensource.org/licenses/MIT)
