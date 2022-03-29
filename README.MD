@@ -1,7 +1,9 @@
-[![npm version](https://img.shields.io/npm/v/@mehulbaid/nest-sendgrid?style=for-the-badge)](https://npmjs.com/package/@mehulbaid/nest-sendgrid "View this project on NPM")
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmehulbaid%2Fnest-sendgrid.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmehulbaid%2Fnest-sendgrid?ref=badge_shield)
-
+[![npm version](https://img.shields.io/npm/v/@mehulbaid/nest-sendgrid?logo=npm&style=for-the-badge)](https://npmjs.com/package/@mehulbaid/nest-sendgrid "View this project on NPM")
+![npm](https://img.shields.io/npm/dw/@mehulbaid/nest-sendgrid?logo=npm&style=for-the-badge)
+![npm](https://img.shields.io/npm/dm/@mehulbaid/nest-sendgrid?logo=npm&style=for-the-badge)
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=for-the-badge)](http://opensource.org/licenses/MIT)
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmehulbaid%2Fnest-sendgrid.svg?type=small)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmehulbaid%2Fnest-sendgrid?ref=badge_small)
 
 <p align="center">
   <h3 align="center">
@@ -47,7 +49,7 @@ npm install --save @mehulbaid/nest-sendgrid @sendgrid/mail
 The simplest way to use `@mehulbaid/nest-sendgrid` is to use `SendGridModule.forRoot`
 
 ```typescript
-import { Module } from '@nestjs-common';
+import { Module } from '@nestjs/common';
 import { SendGridModule } from '@mehulbaid/nest-sendgrid';
 
 @Module({
@@ -63,7 +65,7 @@ export class AppModule {}
 The async way `@mehulbaid/nest-sendgrid` is to use `SendGridModule.forRootAsync`
 
 ```typescript
-import { Module } from '@nestjs-common';
+import { Module } from '@nestjs/common';
 import { SendGridModule } from '@mehulbaid/nest-sendgrid';
 import { ConfigModule, ConfigService } from '@nestjs/config';
 
