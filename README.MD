@@ -1,4 +1,5 @@
 [![npm version](https://img.shields.io/npm/v/@mehulbaid/nest-sendgrid?style=for-the-badge)](https://npmjs.com/package/@mehulbaid/nest-sendgrid "View this project on NPM")
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmehulbaid%2Fnest-sendgrid.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmehulbaid%2Fnest-sendgrid?ref=badge_shield)
 
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=for-the-badge)](http://opensource.org/licenses/MIT)
 
@@ -97,6 +98,9 @@ export class AppService {
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmehulbaid%2Fnest-sendgrid.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmehulbaid%2Fnest-sendgrid?ref=badge_large)
 
 ## Acknowledgements
 
