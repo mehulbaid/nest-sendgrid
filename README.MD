@@ -5,6 +5,7 @@
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=for-the-badge)](http://opensource.org/licenses/MIT)
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmehulbaid%2Fnest-sendgrid.svg?type=small)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmehulbaid%2Fnest-sendgrid?ref=badge_small)
+[![Featured on Openbase](https://badges.openbase.com/js/featured/@mehulbaid/nest-sendgrid.svg?token=kydXf/Zj3WT6RLosE9kYps2RFNrXWCndxLRsCofsivg=)](https://openbase.com/js/@mehulbaid/nest-sendgrid?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge)
 
 <p align="center">
   <h3 align="center">
