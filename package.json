@@ -37,31 +37,14 @@
   },
   "public": true,
   "devDependencies": {
-    "@nestjs/common": "^8.2.0",
-    "@nestjs/core": "^8.2.0",
-    "@nestjs/testing": "^8.2.0",
+    "@nestjs/common": "^8.4.7",
+    "@nestjs/core": "^8.4.7",
+    "@nestjs/testing": "^8.4.7",
     "@types/deepmerge": "^2.2.0",
-    "@types/jest": "^25.2.1",
-    "jest": "^27.3.1",
     "prettier": "^1.19.1",
     "reflect-metadata": "^0.1.13",
     "rxjs": "7.1",
-    "ts-jest": "^25.4.0",
     "tsconfig-paths": "^3.9.0",
     "typescript": "^3.8.3"
-  },
-  "jest": {
-    "moduleFileExtensions": [
-      "js",
-      "json",
-      "ts"
-    ],
-    "rootDir": "lib",
-    "testRegex": ".spec.ts$",
-    "transform": {
-      "^.+\\.(t|j)s$": "ts-jest"
-    },
-    "coverageDirectory": "../coverage",
-    "testEnvironment": "node"
   }
 }
