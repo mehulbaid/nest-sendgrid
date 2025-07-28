@@ -32,7 +32,7 @@
   "author": "Mehul Baid",
   "license": "MIT",
   "dependencies": {
-    "@sendgrid/mail": "^7.0.1",
+    "@sendgrid/mail": "^7.7.0",
     "deepmerge": "^4.2.2"
   },
   "public": true,
